@@ -1,0 +1,195 @@
+{
+  "type": "umap",
+  "uri": "https://umap.openstreetmap.fr/pt-pt/map/escolas-de-trancoso_859037#16/40.7735/-7.3520",
+  "properties": {
+    "easing": true,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "slideshow": {},
+    "captionBar": false,
+    "limitBounds": {},
+    "tilelayer": {},
+    "licence": "",
+    "description": "Escolas e jardins Público de Trancoso.",
+    "name": "Escolas de Trancoso",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 17
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.350038051736194,
+      40.77624960451333
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Red",
+              "iconUrl": "/uploads/pictogram/school-24-white.png"
+            },
+            "description": "Ensino 1º ciclo.\n",
+            "Escolas": "Escola Básica"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -7.357402,
+              40.772449
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconClass": "Drop",
+              "color": "OrangeRed",
+              "iconUrl": "/uploads/pictogram/college-24.png",
+              "labelDirection": "bottom",
+              "popupShape": "Panel",
+              "showLabel": true
+            },
+            "description": "EPT",
+            "Escolas": "Escola Profissional"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -7.349253,
+              40.780502
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "Red",
+              "iconUrl": "/uploads/pictogram/school-24-white.png"
+            },
+            "description": "Ensino 2º e 3º ciclo.",
+            "Escolas": "Escola Secundária"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -7.355181,
+              40.772416
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "OrangeRed",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/college-24.png",
+              "showLabel": true,
+              "labelDirection": "bottom"
+            },
+            "description": "Pré-escolar público.",
+            "Escolas": "Jardim Infantil"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -7.357312,
+              40.770879
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "iconUrl": "/uploads/pictogram/school-24-white.png",
+              "color": "Red"
+            },
+            "description": "Creche e Infantário",
+            "Escolas": "Jardim Infantil SCM"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -7.34918,
+              40.775962
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "id": 2594659,
+        "remoteData": {},
+        "name": "Escolas"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "_umap_options": {
+              "color": "DarkGreen",
+              "opacity": "1",
+              "outlink": "https://www.allaboutportugal.pt/pt/trancoso/jardins/parque-municipal-de-trancoso",
+              "showLabel": null
+            },
+            "name": "Parque Municipal",
+            "description": "Jardim criado em 1880. Foi plantado com árvores dos 5 continentes."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -7.349836,
+                  40.774182
+                ],
+                [
+                  -7.351853,
+                  40.774669
+                ],
+                [
+                  -7.353141,
+                  40.773044
+                ],
+                [
+                  -7.351253,
+                  40.77246
+                ],
+                [
+                  -7.349836,
+                  40.774182
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "remoteData": {},
+        "name": "Camada 2",
+        "id": 2594688
+      }
+    }
+  ]
+}
